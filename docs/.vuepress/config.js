@@ -14,7 +14,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/db_labs-master/',
+  base: '/db_lab6-master/',
   theme: 'cool',
   // dest: 'dist',
   head: [
