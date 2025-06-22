@@ -14,7 +14,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/db_labs/',
+  base: '/db_labs-master/',
   theme: 'cool',
   // dest: 'dist',
   head: [
@@ -68,7 +68,7 @@ module.exports = {
     ],
     lastUpdated: false, // string | boolean
     // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'https://github.com/Somnovem/db_labs',
+    repo: 'https://github.com/Asayxru/db_lab6-master',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: '📁 Github',
